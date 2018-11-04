@@ -1,4 +1,4 @@
-MPI Rectangular integration
+MPI Rectangular Integration
 ============================
 
 A program that performs rectangular integration of the equation
